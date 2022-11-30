@@ -1,0 +1,10 @@
+{
+  "javascript": {
+    "formatter": {
+      "semicolons": "asNeeded"
+    }
+  },
+  "files": {
+    "ignore": ["dist/"]
+  }
+}
