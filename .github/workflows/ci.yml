@@ -1,4 +1,4 @@
-name: CITEST
+name: CITEST2
 
 on:
   push:
